@@ -8,13 +8,13 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 import { es } from "./lib/idiomas/total-idiomas.js"
 
-global.botnumber = ""
-global.confirmCode = ""
+global.botnumber = "+994406674437"
+global.confirmCode = "+994406674437"
 
 //• ↳𝑷𝑶𝑵 𝑳𝑶𝑺 𝑵𝑼𝑴𝑬𝑹𝑶𝑺 𝑸𝑼𝑬 𝑸𝑼𝑰𝑬𝑹𝑨𝑺
 global.owner = [
-['573012482597', '👑 Cʀᴇᴀᴅᴏʀ 🪐', true],
-['51935499065', 'Oᴡɴᴇʀ 👑', true],
+['994406674437', '👑 ayanokoji 🪐', true],
+['994409126126', 'shadow 👑', true],
 ['51944167935'],
 ['5214434703586'],
 ['5492266613038'],
